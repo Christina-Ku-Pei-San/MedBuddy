@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ## Run the program
 ```
-python app.py
+streamlit run app.py
 ```
 
 ## Demo website
