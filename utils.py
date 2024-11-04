@@ -6,6 +6,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 
 # Download nltk resources
 nltk.download('punkt')
+nltk.download('punkt_tab')
 nltk.download('stopwords')
 
 # Text preprocessing function
